@@ -11,13 +11,8 @@ This project demonstrates the integration of Python and SQL for data analysis. T
 - Performing data analysis using SQL queries
 
 ## Files Included
-- **`python_script.py`**: Python scripts for pulling and cleaning data
-- **`sql_queries.sql`**: SQL queries for data analysis
-- **`data_analysis_notebook.ipynb`**: Jupyter Notebook showcasing the entire process
+- **`Data Analysis.sql`**: SQL queries for data analysis
+- **`Order Data Analysis.ipynb`**: Jupyter Notebook showcasing the entire process/ Python scripts for pulling and cleaning data
 
 ## Setup
-
-1. Clone this repository.
-2. Install required Python libraries:
-   ```bash
-   pip install -r requirements.txt
+Clone this repository.
